@@ -88,24 +88,24 @@ I highly recommend uninstalling the game through Steam, deleting the game folder
 
 #### Start Fallout 4
 
-![Skyrim_Launcher](assets/images/Skyrim_Launcher.png)
+![Fallout_Launcher](assets/images/Fallout_Launcher.png)
 
 After you have done everything above and got a clean Fallout 4 installation ready, start the Launcher and open the _Options_ menu.
 
-![Skyrim_Launcher_Options](assets/images/Skyrim_Launcher_Options.png)
+![Fallout_Launcher_Options](assets/images/Fallout_Launcher_Options.png)
 
 1. Click on _Ultra_
 2. Set the  _Resolution_ to your monitor's native values
 3. Set _Antialiasing_ to _TAA_
 4. **Do not** check _Windowed Mode_ and _Borderless_
 
-Start the game and exit once you're in the main menu.
+**Start the game and exit once you're in the main menu.**
 
 #### Creation Club
 
 ![Creation_Club_Purchased](assets/images/Creation_Club_Purchased.png)
 
-If you own any items from the Creation Club, they are not automatically reinstalled when you install Skyrim SE. To reinstall Creation Club items, you must launch the game, select the Creation Club menu option, select the purchased option, then download each Creation club item individually.
+If you own any items from the Creation Club, they are not automatically reinstalled when you install Fallout 4. To reinstall Creation Club items, you must launch the game, select the Creation Club menu option, select the purchased option, then download each Creation club item individually.
 
 At the time of writing this document, Creation Club items are not supported in this mod list. However as I do own a lot of Creation Club content, this is subject to change in the future.
 
