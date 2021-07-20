@@ -119,12 +119,14 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
-1. Open Wabbajack
-2. Click on Browse Modlists, and download Rebuilding the Commonwealth from the gallery.
-3. Once the download is done set the _installation folder_. The recommended installation path is `C:\WJ\RtC`.  This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. The downloads path should automatically fill in the installation path. The rest of this document will assume you are using the recommended installation path.
-4. Click the Go/Begin button
-5. Wait for Wabbajack to finish
-6. If you run into any issues see the next section. If the installation is successful, proceed to [Post-Installation](#post-installation).
+1. [Download the latest release from GitHub](https://github.com/Yagisan/Rebuilding-the-Commonwealth/releases). Extract it to a temporary folder. The recommended temporary folder is `C:\Temp\Rebuild`.
+2. Open Wabbajack.
+3. Click on Install form Disk. Set the target modlist to `C:\Temp\Rebuild\Rebuilding the Commonwealth.wabbajack`
+4. Set the _installation location_. The recommended installation location is `C:\WJ\RtC`.  This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. **The rest of this document will assume you are using the recommended installation path.**
+5. Set the _download location_. The recommended download location is `C:\WJ\RtC_downloads`.  This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder.
+6. Click the Go/Begin button
+7. Wait for Wabbajack to finish
+8. If you run into any issues see the next section. If the installation is successful, proceed to [Post-Installation](#post-installation).
 
 #### Problems with Wabbajack
 
