@@ -148,7 +148,7 @@ Copy all of the files from the `C:\WJ\RtC\Game Folder Files` directory into your
 
 # Starting the Game
 
-Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. This will be `C:\WJ\RtC\ModOrganizer.exe` if you have followed the recommended settings. Once it is launched, there will be a dropdown box on the top right and a big run button right next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button. You have to run SKSE through Mod Organizer 2 in order to play A Touch of Frost.
+Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. This will be `C:\WJ\RtC\ModOrganizer.exe` if you have followed the recommended settings. Once it is launched, there will be a dropdown box on the top right and a big run button right next to it. Ensure it is set to F4SE by selecting it in the dropdown box and then hitting the run button. You have to run F4SE through Mod Organizer 2 in order to play Rebuilding the Commonwealth.
 
 # Updating
 
