@@ -64,7 +64,7 @@ It is unlikely that you are missing this. However it is needed for MO2 and sever
 The Steam Overlay can cause issues with ENB and is recommended to be turned off.
 **Please note that this mod list does not use an ENB.**
 
-Open the Properties window (right click the game in your Library->Properties), navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_ checkbox.
+Open the Properties window (right click the game in your Library->Properties), navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_ checkbox. You should also un-tick the _Keep games saves in the Steam Cloud_.
 
 #### Change Steams Update Behaviour
 
@@ -72,7 +72,7 @@ Open the Properties window (right click the game in your Library->Properties), n
 
 Fallout 4 is still being updated by Bethesda (they only add Creation Club content). Whenever the game updates, the entire modding community goes silent for the next one or two weeks because some mods need to be updated to the latest game runtime version.
 
-To ensure that Steam does not automatically update the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_. You should also disable the Steam Cloud while you're at it.
+To ensure that Steam does not automatically update the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_.
 
 #### Set the Game language to English
 
