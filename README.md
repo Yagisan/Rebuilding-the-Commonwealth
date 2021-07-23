@@ -40,6 +40,7 @@
 
 # Quick Links
 - [Patreon](https://patreon.com/yagisan) contains update posts and provides a way of showing support for the project.
+- [Ko-fi](https://ko-fi.com/yagisan) contains update posts and provides a way of showing support for the project.
 - [Downloads](https://github.com/Yagisan/Rebuilding-the-Commonwealth/releases) for the most recent releases.
 - [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) for the tool to install this modlist.
 - [Issues](https://github.com/Yagisan/Rebuilding-the-Commonwealth/issues) for technical support with this mod list.
