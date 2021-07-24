@@ -4,6 +4,8 @@
 
  Rebuilding the Commonwealth is a curated modlist designed for a settlement building focused playthrough. It is expected that players will not add additional mods or otherwise change this modlist.
 
+[![patreon](assets/images/become_a_patron_button.png)](https://patreon.com/yagisan) [![ko-fi](assets/images/support_on_kofi_button.png)](https://ko-fi.com/yagisan)
+
 - [Rebuilding the Commonwealth](#rebuilding-the-commonwealth)
 - [Preamble](#preamble)
 - [Quick Links](#quick-links)
