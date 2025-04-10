@@ -1,6 +1,8 @@
 # Rebuilding the Commonwealth
- 
-![GitHub all releases](https://img.shields.io/github/downloads/Yagisan/Rebuilding-the-Commonwealth/total?logo=GitHub&style=for-the-badge)![GitHub issues](https://img.shields.io/github/issues/Yagisan/Rebuilding-the-Commonwealth?logo=GitHub&style=for-the-badge)
+
+![RtC_Title_Card](/assets/images/RtC_Hero_20250411.webp)
+
+![GitHub Release](https://img.shields.io/github/v/release/Yagisan/Rebuilding-the-Commonwealth?sort=semver&style=for-the-badge&label=Latest%20Version)![GitHub all releases](https://img.shields.io/github/downloads/Yagisan/Rebuilding-the-Commonwealth/total?logo=GitHub&style=for-the-badge)![GitHub issues](https://img.shields.io/github/issues/Yagisan/Rebuilding-the-Commonwealth?logo=GitHub&style=for-the-badge)![Discord](https://img.shields.io/discord/958710541017317397?label=Yagisan%27s%20Discord&logo=discord&style=for-the-badge)
 
  Rebuilding the Commonwealth is a curated modlist that is focused on settlement building in survival mode.
  
@@ -12,7 +14,8 @@
 
  **This list will coexist with your existing installation.**
 
-[![patreon](assets/images/become_a_patron_button.png)](https://patreon.com/yagisan) [![ko-fi](assets/images/support_on_kofi_button.png)](https://ko-fi.com/yagisan)
+  | [![patreon](/assets/images/become_a_patron_button.png)](https://patreon.com/yagisan) | [![ko-fi](/assets/images/support_on_kofi_button.png)](https://ko-fi.com/yagisan) | [![Discord Banner 2](https://discordapp.com/api/guilds/958710541017317397/widget.png?style=banner2)](https://discord.gg/rB5RFgHhUD) |
+| - | - | - |
 
 - [Rebuilding the Commonwealth](#rebuilding-the-commonwealth)
 - [Preamble](#preamble)
